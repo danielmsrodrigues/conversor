@@ -1,0 +1,32 @@
+/* Português (Portugal). As chaves são o texto em inglês usado no código. */
+
+"Choose the file to convert. Tip: in Finder, right-click a file → Convert to…" = "Escolhe o ficheiro a converter. Dica: no Finder, botão direito num ficheiro → Converter para…";
+"Convert" = "Converter";
+
+"Choose a file (folders don’t work)." = "Escolhe um ficheiro (pastas não dá).";
+"I can’t convert files without an extension yet." = "Ainda não sei converter ficheiros sem extensão.";
+"I can’t convert .%@ files yet." = "Ainda não sei converter ficheiros .%@.";
+
+"%lld files" = "%lld ficheiros";
+"%lld files created" = "%lld ficheiros criados";
+"%lld failed" = "%lld não deram";
+"Show in Finder" = "Mostrar no Finder";
+
+"Couldn’t open the file." = "Não consegui abrir o ficheiro.";
+"The PDF is password protected." = "O PDF está protegido com palavra-passe.";
+"This conversion isn’t supported for this file." = "Esta conversão não é suportada para este ficheiro.";
+"The conversion failed." = "A conversão falhou.";
+"The conversion failed: %@" = "A conversão falhou: %@";
+"couldn’t create the PDF" = "não foi possível gerar o PDF";
+"couldn’t create the page" = "não foi possível criar a página";
+"couldn’t save the PDF" = "não foi possível gravar o PDF";
+"couldn’t save the image" = "não foi possível gravar a imagem";
+"this file has no sound" = "este ficheiro não tem som";
+" (pages)" = " (páginas)";
+
+"Text" = "Texto";
+"Web page" = "Página web";
+"AAC audio" = "Áudio AAC";
+"Word 97" = "Word 97";
+"Rich Text" = "Rich Text";
+"OpenDocument" = "OpenDocument";
